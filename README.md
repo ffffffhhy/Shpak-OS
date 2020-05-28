@@ -1,2 +1,2 @@
 # Shpak-OS
-SUper new OS for someone
+Super new OS for someone
